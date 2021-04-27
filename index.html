@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <link rel='stylesheet' href='./assets/styles/index.css'>
+    <link rel='stylesheet' href='https://use.typekit.net/lyi6xev.css'>
+    <title>Thesis Shows 2021</title>
+  </head>
+  <body class='customizable'>
+    <div class='wrapper'>
+      <button id='remix-button'><div id='twelve-point-star'></div></button>
+      
+        <header>
+        <div class='search'>
+          <input type='text' id='search-bar' placeholder='Thesis Shows 2021' />
+        </div>
+          <div class='select-sort'>
+          <select id='sort-by' class='customizable-inverse'>
+            <option disabled selected>Sort</option>
+            <option value='a-z'>A to Z</option>
+            <option value='z-a'>Z to A</option>
+            <option value='distance-close'>Near to Far</option>
+            <option value='distance-far'>Far to Near</option>
+          </select>
+        </div>
+      </header>
+      <main>
+        <section id='schools-list' class='customizable'></section>
+        <footer>
+          <p>Unlinked online shows opening through June</p>
+          <p>Thesis Shows 2021 project by <a href="https://rivahphotography.wixsite.com/home">Naail Ali,</a> Alonso Nichols, Ben Shaw, <a href='https://www.alexandersi.com/'>Alexander Si</a>, <a href='https://www.sarahskupien.com/'>Sarah Skupien</a>, <a href="https://www.linkedin.com/in/robertsmith286/">Robert Smith</a>, <a href="https://www.samanthasponer.com/">Samantha Sponer</a>.</p>
+          <p>Website by <a href='https://rudd.fyi'>Rudd Fawcett</a>, <a href='https://sidneyhirschman.com'>Sidney Hirschman</a>, Lauren Song.</p>
+          <p>With support from professors <a href='https://www.laurelnakadate.com/'>Laurel Nakadate</a> and <a href='http://www.lisakereszi.com/'>Lisa Kereszi</a> at SMFA@Tufts and Yale.</p>
+        </footer>
+      </main>
+      <div id='remix-modal' class='modal-menu' class='customizable-inverse'>
+        <section>
+          <button id='random-remix'>Random</button>
+        </section>
+        <section>
+          <label class='slider-label'>Colors</label>
+          <input type='range' min='0' max='99' value='50' class='slider' id='color-slider'>
+          </section>
+          <!-- <input type='color' id='primary-color' name='primary-color' value='#000000' />
+        </section>
+        <section>
+          <label class='slider-label'>Secondary Color</label>
+          <input type='color' id='secondary-color' name='secondary-color' value='#ffffff' />
+        </section> -->
+        <section>
+          <label class='slider-label'>Typeface</label>
+          <select name='font' id='font-select'>
+            <option value='neue-haas-grotesk-text,arial,sans-serif'>Neue Haas Grotesk</option>
+            <option value='ivypresto-headline,serif'>IvyPresto</option>
+            <option value='verdana,sans-serif'>Verdana</option>
+            <option value='monotalic,monospace'>Monotalic</option>
+            <option value='comic-sans,sans-serif'>Comic Sans</option>
+          </select>
+        </section>
+        <section>
+          <p class='slider-label'>Type Size</p>
+          <input type='range' min='1' max='2' value='1' step='0.01' class='slider' id='font-size'>
+        </section>
+        <section>
+          <button id='done'>Done</button>
+        </section>
+      </div>
+    </div>
+  </body>
+  <script src='./scripts/chroma.min.js'></script>
+  <script src='./scripts/data.js'></script>
+  <script src='./scripts/index.js'></script>
+</html>
