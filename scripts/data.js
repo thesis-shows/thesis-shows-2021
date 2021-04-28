@@ -57,14 +57,6 @@ data = [
   },
   {
     "school_name": "County College of Morris",
-    "url": "",
-    "launch_date": "04/30/21",
-    "social_handle": "@ccm_nj",
-    "country": "USA",
-    "coords": "40.8601, 74.5782"
-  },
-  {
-    "school_name": "County College of Morris",
     "url": "https://ccmphoto2021.wixsite.com/2021",
     "launch_date": "04/30/21",
     "social_handle": "",
