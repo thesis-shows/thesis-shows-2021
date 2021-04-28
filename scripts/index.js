@@ -67,6 +67,12 @@ function displaySchools() {
     case 'distance-far':
       currentData = currentData.sort((a, b) => (getDistance(a) < getDistance(b) ? 1 : -1));
     break;
+    case 'shortest':
+      currentData = currentData.sort((a, b) => (a.school_name.length > b.school_name.length ? 1 : -1));
+    break;
+    case 'longest':
+      currentData = currentData.sort((a, b) => (a.school_name.length < b.school_name.length ? 1 : -1));
+    break;
   }
 
   currentData.forEach((school) => displaySchool(school));
