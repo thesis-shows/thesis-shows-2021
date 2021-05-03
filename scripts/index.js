@@ -28,9 +28,11 @@ let myLongitude;
 
 //using chroma.js scaling to give us 100 colors that are light and dark
 let cubelight = chroma.cubehelix().rotations(-5).lightness([0.0, 1]).scale();
-let cubelightcolors = cubelight.colors(100);
+let cubelightcolors = cubelight.correctLightness().colors(100);
 let cubedark = chroma.cubehelix().rotations(4).lightness([1, 0.0]).scale();
-let cubedarkcolors = cubedark.colors(100);
+let cubedarkcolors = cubedark.correctLightness().colors(100);
+
+let rainbowScale = chroma.scale(['red','orange','yellow','green','blue','purple']).correctLightness().colors(100);
 
 const fontArray = [
   'neue-haas-grotesk-text,arial,sans-serif',
@@ -38,6 +40,9 @@ const fontArray = [
   'monotalic,monospace',
   'ivypresto-headline,serif',
   'comic-sans,sans-serif',
+  'century-gothic,sans-serif',
+  'ibm-plex-serif,serif',
+  'ode,sans-serif'
 ];
 
 searchBar.addEventListener('keyup', (e) => {
@@ -178,7 +183,7 @@ function showRandomDefault() {
     {color: 25, font: fontArray[1]},
     {color: 93, font: fontArray[3]},
     {color: 21, font: fontArray[2]},
-    {color: 15, font: fontArray[2]}
+    {color: 15, font: fontArray[6]}
   ]
 
   let randomItem = Math.floor(Math.random() * defaultArray.length)
