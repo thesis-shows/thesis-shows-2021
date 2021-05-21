@@ -125,11 +125,14 @@ randomRemix.addEventListener('click', (e) => {
 
 function setFont(font) {
   document.documentElement.style.setProperty('--typeface', font);
+  fontSelect.value = font
 }
 
 function setColors(colorNumber) {
-  document.documentElement.style.setProperty('--primary-color', cubedarkcolors[colorNumber]);
-  document.documentElement.style.setProperty('--secondary-color', cubelightcolors[colorNumber]);
+  document.documentElement.style.setProperty('--primary-color', cubelightcolors[colorNumber]);
+  document.documentElement.style.setProperty('--secondary-color', cubedarkcolors[colorNumber]);
+  colorSlider.value = colorNumber;
+  
 }
 
 sortBy.onchange = function() {
@@ -148,9 +151,7 @@ sortBy.onchange = function() {
 }
 
 colorSlider.oninput = function() {
-  document.documentElement.style.setProperty('--primary-color', cubelightcolors[this.value]);
-  document.documentElement.style.setProperty('--secondary-color', cubedarkcolors[this.value]);
-
+setColors(this.value)
 }
 
 // primaryColor.oninput = function() {
