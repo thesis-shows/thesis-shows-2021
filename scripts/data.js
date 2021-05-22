@@ -431,7 +431,7 @@ data =  [{
   "coords": "42.3590, 71.0618"
 },
 {
-  "school_name": "Suffolk University MFA",
+  "school_name": "Suffolk University MA",
   "url": "https://www.nexus-collective.net/",
   "launch_date": null,
   "social_handle": "@nexus.collective",
