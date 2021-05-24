@@ -336,7 +336,7 @@ data =  [{
 },
 {
   "school_name": "Rochester Institute of Technology",
-  "url": "https://mfaphotogallery.cad.rit.edu/nathan-rochefort/",
+  "url": "https://mfaphotogallery.cad.rit.edu/",
   "launch_date": "March 2021",
   "social_handle": "@nerochefort",
   "country": "USA",
@@ -520,7 +520,7 @@ data =  [{
 },
 {
   "school_name": "University of Connecticut, MFA Studio Art",
-  "url": null,
+  "url": "https://art.uconn.edu/2021-mfa-studio-art-exhibition/",
   "launch_date": "May 2021",
   "social_handle": "@paulmichaelartist, @uconnsfa, @uconnmfainstudiort",
   "country": "USA",
