@@ -216,7 +216,7 @@ data =  [{
 },
 {
   "school_name": "Massachusetts College of Art and Design, Photography",
-  "url": "bfa2021.massartphotography.org",
+  "url": "http://bfa2021.massartphotography.org",
   "launch_date": "May 7th 2021",
   "social_handle": "@massart_photography",
   "country": "USA",
