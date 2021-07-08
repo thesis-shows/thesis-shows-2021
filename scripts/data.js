@@ -592,7 +592,7 @@ data =  [{
 },
 {
   "school_name": "University of Massachusetts Lowell",
-  "url": null,
+  "url": "https://umlbfa.com/",
   "launch_date": "May 10, 2020",
   "social_handle": "@uml_artdesign",
   "country": "USA",
