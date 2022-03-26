@@ -725,5 +725,13 @@ data =  [{
   "social_handle": "ysdn.2021",
   "country": "Canada",
   "coords": "43.7735, 79.5019"
+},
+  {
+  "school_name": "SUNY New Paltz Photography",
+  "url": "https://hawksites.newpaltz.edu/newpaltzphoto2021/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": "41.7390, -74.0852"
 }
 ]
