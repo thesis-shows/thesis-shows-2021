@@ -7,8 +7,8 @@ data =  [{
   "coords": "42.2542, 77.7906"
 },
 {
-  "school_name": "Algonquin College",
-  "url": null,
+  "school_name": "Algonquin College, Photography",
+  "url": "https://www.algonquinphoto.com/gallery",
   "launch_date": null,
   "social_handle": null,
   "country": "Canada",
@@ -312,7 +312,7 @@ data =  [{
 },
 {
   "school_name": "Portland State University, Art and Social Practice MFA",
-  "url": null,
+  "url": "http://psusocialpractice.org/assembly/",
   "launch_date": "MAY/June 2021",
   "social_handle": "@psuartanddesign",
   "country": "USA",
