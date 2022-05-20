@@ -15,14 +15,6 @@ data =  [{
   "coords": "45.3480, 75.7569"
 },
 {
-  "school_name": "Art Center",
-  "url": null,
-  "launch_date": null,
-  "social_handle": null,
-  "country": "USA",
-  "coords": "34.1680, 118.1845"
-},
-{
   "school_name": "Boston College, Art, Art History & Film",
   "url": "https://www.artsteps.com/view/609553c2eac46de4139268aa",
   "launch_date": "May-ish",
@@ -111,28 +103,12 @@ data =  [{
   "coords": "35.6069, 77.3665"
 },
 {
-  "school_name": "Edinboro University,  Graphic & Interactive Design",
-  "url": null,
-  "launch_date": "April 2020",
-  "social_handle": "@edinborou",
-  "country": "USA",
-  "coords": "41.8716, 80.1208"
-},
-{
   "school_name": "Fashion Institute of Technology, SUNY",
   "url": "www.fitbfaphoto2021.com",
   "launch_date": "May 5th",
   "social_handle": "@fit_artdesign",
   "country": "USA",
   "coords": "40.7473, 73.9950"
-},
-{
-  "school_name": "George Brown University, School of Design",
-  "url": null,
-  "launch_date": "2021-05-03T04:00:00.000Z",
-  "social_handle": "@sod_yes",
-  "country": "Canada",
-  "coords": "43.6761, 79.4111"
 },
 {
   "school_name": "Georgia State University, Photography",
@@ -152,7 +128,7 @@ data =  [{
 },
 {
   "school_name": "GSU Welch School of Art & Design, Photography",
-  "url": null,
+  "url": "https://gsuphotobfa.wixsite.com/senior",
   "launch_date": "end of April 2021",
   "social_handle": "@gsu_artdesign",
   "country": "USA",
@@ -181,14 +157,6 @@ data =  [{
   "social_handle": null,
   "country": "USA",
   "coords": "39.1691, 86.5198"
-},
-{
-  "school_name": "Institute of Art and Design @New England College, Photography",
-  "url": null,
-  "launch_date": "Spring semester 2021",
-  "social_handle": "@iad.nec",
-  "country": "USA",
-  "coords": "42.9929, 71.4589"
 },
 {
   "school_name": "Lesley Art + Design, Photography and Interdisciplinary Studies",
@@ -280,7 +248,7 @@ data =  [{
 },
 {
   "school_name": "Pacific Northwest College of Art, MFA in Visual Studies",
-  "url": null,
+  "url": "https://pnca.edu/gallery/2021-mfa-thesis-exhibition",
   "launch_date": "July 23 - September 3",
   "social_handle": null,
   "country": "USA",
@@ -344,7 +312,7 @@ data =  [{
 },
 {
   "school_name": "Rollins College, Studio Art",
-  "url": null,
+  "url": "https://www.rollins.edu/rma/exhibitions/2021/2021-senior-student-exhibition.html",
   "launch_date": "April 15, 2021",
   "social_handle": "@rollinscollege",
   "country": "USA",
@@ -367,14 +335,6 @@ data =  [{
   "coords": "37.7220, 122.4797"
 },
 {
-  "school_name": "Sarah Lawrence College",
-  "url": null,
-  "launch_date": "Start mid-April",
-  "social_handle": "@slcvasa, @sarahlawrencecollege",
-  "country": "USA",
-  "coords": "40.9346, 73.8456"
-},
-{
   "school_name": "School of Visual Arts BFA Photography & Video,",
   "url": "https://www.galleries.sva.edu/socdocshowcase10",
   "launch_date": "May 3, 2021",
@@ -384,19 +344,11 @@ data =  [{
 },
 {
   "school_name": "School of Visual Arts, MFA Fine Arts",
-  "url": null,
+  "url": "https://sva.edu/events/here-together-mfa-fine-arts-thesis-exhibition-2021",
   "launch_date": "June 15th",
   "social_handle": null,
   "country": null,
   "coords": "40.7388, 73.9823"
-},
-{
-  "school_name": "Sheridan College, Honours Bachelor of Photography",
-  "url": null,
-  "launch_date": "May 1st 2021",
-  "social_handle": "@sheridan_college",
-  "country": "Canada",
-  "coords": "43.4692, 79.6986"
 },
 {
   "school_name": "SMFA @ Tufts University, Senior Thesis",
@@ -416,7 +368,7 @@ data =  [{
 },
 {
   "school_name": "State University of New York at New Paltz",
-  "url": null,
+  "url": "https://www.newpaltz.edu/museum/exhibitions/bfamfa-thesis-exhibition-spring-2021/",
   "launch_date": "April 15 2021",
   "social_handle": "@newpaltzphotography",
   "country": "USA",
@@ -456,7 +408,7 @@ data =  [{
 },
 {
   "school_name": "The Ohio State University, Visual Art MFA",
-  "url": null,
+  "url": "https://art.osu.edu/grad-studies/current/mfa-exhibit",
   "launch_date": "February 23rd",
   "social_handle": "@ascatosu",
   "country": "USA",
@@ -504,19 +456,11 @@ data =  [{
 },
 {
   "school_name": "UMass Dartmouth College of Visual & Performing Arts",
-  "url": null,
+  "url": "https://www.umassd.edu/cvpa/universityartgallery/exhibitions/2021/2021-mfa-thesis-exhibition.html",
   "launch_date": "May 6th approx",
   "social_handle": "Instagram: @ginapantalone.art (art account), @umassdcvpa (CVPA UMass Dartmouth account)",
   "country": "USA",
   "coords": "41.6282, 71.0046"
-},
-{
-  "school_name": "UNC Chapel Hill",
-  "url": null,
-  "launch_date": null,
-  "social_handle": "@unc_aah",
-  "country": "USA",
-  "coords": "35.9049, 79.0469"
 },
 {
   "school_name": "University of Connecticut, MFA Studio Art",
@@ -536,7 +480,7 @@ data =  [{
 },
 {
   "school_name": "University of Georgia, Lamar Dodd School of Art",
-  "url": null,
+  "url": "https://art.uga.edu/galleries/emergence-bfa-exit-show-fall-2021",
   "launch_date": "April 12 2021",
   "social_handle": "@doddgrads on instagram",
   "country": "USA",
@@ -565,14 +509,6 @@ data =  [{
   "social_handle": "@arcd_ku",
   "country": "USA",
   "coords": "38.9543, 95.2558"
-},
-{
-  "school_name": "University of Lethbridge, MFA",
-  "url": null,
-  "launch_date": "May or June 2021",
-  "social_handle": "@ambervisualartist (IG)",
-  "country": "Canada",
-  "coords": "49.6786, 112.8601"
 },
 {
   "school_name": "University of Louisville",
@@ -616,23 +552,15 @@ data =  [{
 },
 {
   "school_name": "University of New Hampshire",
-  "url": null,
+  "url": "https://cola.unh.edu/museum-art",
   "launch_date": null,
   "social_handle": "@uofnh, @unhartdepartment, @unhartdept",
   "country": "USA",
   "coords": "43.1389, 70.9370"
 },
 {
-  "school_name": "University of North Carolina at Chapel Hill, MFA in Studio Arts",
-  "url": null,
-  "launch_date": "May 2021",
-  "social_handle": null,
-  "country": "USA",
-  "coords": "39.3076, 76.6216"
-},
-{
-  "school_name": "University of Pennsylvania, Fine Arts",
-  "url": null,
+  "school_name": "University of Pennsylvania, Visual Studies",
+  "url": "https://web.sas.upenn.edu/vlst2021exhibition/",
   "launch_date": "End of April / early may",
   "social_handle": "jessioart",
   "country": "USA",
@@ -647,14 +575,6 @@ data =  [{
   "coords": "39.9460, 75.1656"
 },
 {
-  "school_name": "Vassar College",
-  "url": null,
-  "launch_date": "May 15",
-  "social_handle": "@vassarcollege",
-  "country": "USA",
-  "coords": "41.6862, 73.8973"
-},
-{
   "school_name": "Virginia Commonwealth University",
   "url": "https://arts.vcu.edu/community/news/2021-mfa-thesis-exhibition/",
   "launch_date": "May 2021",
@@ -664,7 +584,7 @@ data =  [{
 },
 {
   "school_name": "Washington State MFA",
-  "url": null,
+  "url": "https://museum.wsu.edu/events/exhibit/2021-master-of-fine-arts-thesis/",
   "launch_date": null,
   "social_handle": null,
   "country": "USA",
@@ -680,7 +600,7 @@ data =  [{
 },
 {
   "school_name": "Washington University, MFA in Visual Art, Sam Fox School",
-  "url": null,
+  "url": "https://samfoxschool.wustl.edu/calendar/exhibitions/7-2021-mfa-ivc-thesis-exhibition",
   "launch_date": "mid May",
   "social_handle": "samfox_mfa_va (insta)",
   "country": "USA",
@@ -693,14 +613,6 @@ data =  [{
   "social_handle": "www.facebook.com/wellesleyart and @wellesleyartdept on Instagram",
   "country": "USA",
   "coords": "42.2936, 71.3059"
-},
-{
-  "school_name": "Western University",
-  "url": null,
-  "launch_date": "June 2021",
-  "social_handle": "@westernuvisarts",
-  "country": "Canada",
-  "coords": "43.0096, 81.2737"
 },
 {
   "school_name": "Yale School of Art, BA Thesis",
@@ -733,5 +645,61 @@ data =  [{
   "social_handle": null,
   "country": "USA",
   "coords": "41.7390, -74.0852"
+},
+{
+  "school_name": "Western Connecticut State University",
+  "url": "https://www.wcsu.edu/art/gallery/exhibitions/2021-mfa-thesis-exhibition/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "University of Manitoba",
+  "url": "https://news.umanitoba.ca/school-of-art-presents-2021-mfa-thesis-exhibitions-and-oral-examinations/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "University of Arkansas",
+  "url": "https://formseniorshow.uark.edu/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "University of Washington",
+  "url": "https://www.uwdesignshow.com/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "Flagler College",
+  "url": "https://flaglerseniorshows.com/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "University of San Francisco",
+  "url": "https://usfca.design/2021/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
+},
+{
+  "school_name": "Drexel University",
+  "url": "https://westphal.design/GD/SeniorShow21/",
+  "launch_date": null,
+  "social_handle": null,
+  "country": "USA",
+  "coords": null
 }
 ]
